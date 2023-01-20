@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    CD cd@cd.com @ubvkw
 
 # THANKS
 
